@@ -1,5 +1,10 @@
 clonedemo
+<<<<<<< HEAD
 222222
 
 
 three
+=======
+
+´ó·ù¶¯µ´
+>>>>>>> cee74d52b8a5ad90acd933ec838a2e56a6c48029
